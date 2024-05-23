@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "664ddab053bb30191dd10a00"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ddab053bb30191dd10a01"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "__v": 0
+}]
