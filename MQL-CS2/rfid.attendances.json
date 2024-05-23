@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "664ee64741ea39275a80fe46"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 9:05:14 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee64b41ea39275a80fe48"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 9:20:42 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f1fe341ea39275a80fe4d"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:32:58 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211641ea39275a80fe4f"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:36:25 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211741ea39275a80fe51"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:38:49 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211841ea39275a80fe53"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:41:07 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211841ea39275a80fe55"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:48:33 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211941ea39275a80fe57"
+  },
+  "uid": [
+    "0xaf",
+    "0x33",
+    "0x4d",
+    "0x1c"
+  ],
+  "name": "User 2",
+  "department": "College of Arts And Social Sciences",
+  "timestamp": "5/23/2024, 9:55:12 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211b41ea39275a80fe59"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 10:08:21 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211c41ea39275a80fe5b"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 10:25:50 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211c41ea39275a80fe5d"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 9:30:50 AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f211d41ea39275a80fe5f"
+  },
+  "uid": [
+    "0xb6",
+    "0x99",
+    "0x8b",
+    "0x2b"
+  ],
+  "name": "User 1",
+  "department": "College of Computer Studies",
+  "timestamp": "5/23/2024, 9:30:02 AM",
+  "__v": 0
+}]
