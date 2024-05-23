@@ -56,25 +56,25 @@ app.get('/attendance', async (req, res) => {
 });
 
 // Endpoint to check if UID is whitelisted
-// app.post('/checkUID', async (req, res) => {
-//     const { uid } = req.body;
-//     const user = await UID.findOne({ uid });
-//     if (user) {
-//         res.json({ success: true, name: user.name, department: user.department });
-//     } else {
-//         res.json({ success: false });
-//     }
-// });
-
 app.post('/checkUID', async (req, res) => {
     const { uid } = req.body;
     const user = await UID.findOne({ uid });
     if (user) {
-        res.json({ success: true, name: user.name});
+        res.json({ success: true, name: user.name, department: user.department });
     } else {
         res.json({ success: false });
     }
 });
+
+// app.post('/checkUID', async (req, res) => {
+//     const { uid } = req.body;
+//     const user = await UID.findOne({ uid });
+//     if (user) {
+//         res.json({ success: true, name: user.name});
+//     } else {
+//         res.json({ success: false });
+//     }
+// });
 
 // Endpoint to log attendance
 app.post('/logAttendance', async (req, res) => {
